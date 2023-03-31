@@ -1,0 +1,10 @@
+.git/
+__pycache__/
+
+fly.toml
+*.sqlite3
+tailwind.config.js
+
+.env
+.DS_Store
+.vscode

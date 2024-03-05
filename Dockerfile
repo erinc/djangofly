@@ -1,4 +1,5 @@
-ARG PYTHON_VERSION=3.11.2-bullseye
+ARG PYTHON_VERSION=3.12.2-alpine
+
 
 FROM python:${PYTHON_VERSION}
 
